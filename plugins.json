@@ -1,0 +1,52 @@
+[
+  {
+    "id": "plugin-bts-jira",
+    "description": "Jira bug tracking system integration for ReportPortal",
+    "provider": "ReportPortal Team",
+    "project_url": "https://github.com/reportportal/plugin-bts-jira",
+    "icon_url": "https://raw.githubusercontent.com/reportportal/marketplace-plugin-registry/main/plugins/plugin-bts-jira-cloud/icon.png",
+    "releases": [
+      {
+        "version": "5.7.4",
+        "date": "2023-04-11",
+        "requires": "5.7.4-5.8.0",
+        "ui_requires": "5.7.4-5.8.0",
+        "url": "https://github-registry-files.githubusercontent.com/157722432/f4e76f00-d873-11ed-84f5-4f885b42acc7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230605%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230605T132415Z&X-Amz-Expires=300&X-Amz-Signature=8375d8d09bbfd9c747e63e9d39301cc2bb8572b16af874688bf94fe8b56730b5&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=157722432&response-content-disposition=filename%3Dplugin-bts-jira-5.7.4.jar&response-content-type=application%2Foctet-stream",
+        "sha512sum": "a6ef953100397175b62ecef56057bfa878581dcd59f98037e19b86865caad9053d644e7d0f7710d17d7cc7df1f41a0afade43eac67bd7a403175c5bf618bed72"
+      }
+    ]
+  },
+  {
+    "id": "plugin-bts-jira-cloud",
+    "description": "Plugin to integrate JIRA Cloud with Report Portal",
+    "provider": "ReportPortal Team",
+    "project_url": "https://github.com/reportportal/plugin-bts-jira-cloud",
+    "icon_url": "plugin-bts-jira-cloud/icon.png",
+    "releases": [
+      {
+        "version": "5.7.3",
+        "date": "2023-04-17",
+        "requires": "5.7.4-5.8.0",
+        "ui_requires": "5.7.4-5.8.0",
+        "url": "plugin-bts-jira-cloud/5.7.3/plugin-bts-jira-cloud-5.7.3.jar",
+        "sha512sum": "plugin-bts-jira-cloud/5.7.3/plugin-bts-jira-cloud-5.7.3.jar.sha512"
+      }
+    ]
+  },
+  {
+    "id": "plugin-bts-rally",
+    "description": "Rally bug tracking system integration for ReportPortal",
+    "provider": "ReportPortal Team",
+    "project_url": "https://github.com/reportportal/plugin-bts-rally",
+    "releases": [
+      {
+        "version": "5.7.2",
+        "date": "2023-04-17",
+        "requires": "5.7.4-5.8.0",
+        "ui_requires": "5.7.4-5.8.0",
+        "url": "plugin-bts-rally/5.7.2/plugin-bts-rally-5.7.2.jar",
+        "sha512sum": "plugin-bts-rally/5.7.2/plugin-bts-rally-5.7.2.jar.sha512"
+      }
+    ]
+  }
+]
